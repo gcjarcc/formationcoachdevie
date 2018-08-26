@@ -1,1 +1,4 @@
 remote_theme: jeromelachaud/grayscale-theme
+plugins:
+  - jekyll-seo-tag
+title: Formation Coach de Vie
