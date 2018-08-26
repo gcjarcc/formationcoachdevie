@@ -1,4 +1,4 @@
-remote_theme: ExchangeRate-API/rlstevenson-jekyll-theme
+remote_theme: grrinchas/aliquam
 name: Formation Coach de Vie
 plugins:
   - jekyll-seo-tag
