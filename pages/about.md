@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-description: More information about me and this website.
+title: A propos
+description: Plus d'informations sur notre équipe et notre site.
 ---
 
-I am ...
+Nous sommes ...
 
-## Contact form
+## Formulaire de contact
 
 {% include contact_form.html %}
