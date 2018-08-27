@@ -4,7 +4,7 @@ title: Formation Coach de Vie
 description: Nous vous accompagnons et vous dirigeons vers la meilleure formation possible considérant votre profil
 ---
 
-## Je veux me former, mais finalement, ça veut dire quoi être un coach de vie ?
+### Je veux me former, mais finalement, ça veut dire quoi être un coach de vie ?
 
 ## Ma vie, mon coach de vie
 
