@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank You!
+title: Merci Beaucoup!
 comments: false
 css: /resources/css/thankyou.css
 ---
