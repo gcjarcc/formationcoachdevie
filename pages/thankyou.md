@@ -5,8 +5,8 @@ comments: false
 css: /resources/css/thankyou.css
 ---
 
-# __THANK YOU!__
+# __MERCI BEAUCOUP!__
 
-Your submission was successful, I will contact you shortly.
+Votre message a bien été envoyé, je vous contacterai sous peu.
 
 [Back to main page]({{ site.baseurl }}/index.html)
