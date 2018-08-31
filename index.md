@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Formation Coach de Vie
+name: accueil
 description: Nous vous accompagnons et vous dirigeons vers la meilleure formation possible considérant votre profil
 ---
 
